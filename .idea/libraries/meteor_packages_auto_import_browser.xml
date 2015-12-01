@@ -137,6 +137,8 @@
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/tracker/1.0.9/web.browser/deprecated.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/tracker/1.0.9/web.browser/tracker.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ecmascript-runtime/0.2.6/web.browser/.npm/package/node_modules/meteor-ecmascript-runtime/client.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_blaze-layout/2.3.0/web.browser/lib/client/layout.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_blaze-layout/2.3.0/web.browser/lib/client/namespace.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ejson/1.0.7/web.browser/stringify.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ejson/1.0.7/web.browser/ejson.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/underscore/1.0.4/web.browser/underscore.js" />
@@ -283,6 +285,8 @@
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/tracker/1.0.9/web.browser/deprecated.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/tracker/1.0.9/web.browser/tracker.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ecmascript-runtime/0.2.6/web.browser/.npm/package/node_modules/meteor-ecmascript-runtime/client.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_blaze-layout/2.3.0/web.browser/lib/client/layout.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_blaze-layout/2.3.0/web.browser/lib/client/namespace.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ejson/1.0.7/web.browser/stringify.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ejson/1.0.7/web.browser/ejson.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/underscore/1.0.4/web.browser/underscore.js" />
