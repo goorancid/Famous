@@ -2,69 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c1363d7-77fd-4078-987b-5a853bc13112" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/aero.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/aero@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/alpha-horizontal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/avatar04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/avatar2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/avatar3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/avatar5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blue@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/boxed-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/boxed-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/credit/american-express.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/credit/cirrus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/credit/mastercard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/credit/mestro.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/credit/paypal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/credit/paypal2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/credit/visa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/default-50x50.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/flat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/flat@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/green@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/grey@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/hue-horizontal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/hue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/orange.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/orange@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/photo1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/photo2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/photo3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/photo4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pink.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pink@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/purple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/purple@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/red@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/saturation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/sort_asc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/sort_asc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/sort_both.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/sort_desc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/sort_desc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/sprite-skin-flat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/sprite-skin-nice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/user1-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/user2-160x160.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/user3-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/user4-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/user5-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/user6-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/user7-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/user8-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/yellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/yellow@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/layouts/adminLayouts/adminLayout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/layouts/frontend/frontendLayout.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/meteor_packages_auto_import_browser.xml" afterPath="$PROJECT_DIR$/.idea/libraries/meteor_packages_auto_import_browser.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/packages" afterPath="$PROJECT_DIR$/.meteor/packages" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/versions" afterPath="$PROJECT_DIR$/.meteor/versions" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -170,7 +111,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.65384614">
               <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1448965675980" expanded="true" signature="31:44" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -178,8 +121,8 @@
       <file leaf-file-name="packages" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.meteor/packages">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6891892">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.9572072">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -716,14 +659,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.65384614">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1448965675980" expanded="true" signature="31:44" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.meteor/packages">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6891892">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.9572072">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
