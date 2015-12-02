@@ -57,7 +57,7 @@
     color: white;
 }
 
-.bg-dark a.hover {
+.bg-dark a:hover {
     color: red;
 }
 

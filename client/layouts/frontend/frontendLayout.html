@@ -1,3 +1,11 @@
 <template name="frontendLayout">
+    <header>
+        {{> topnav}}
+    </header>
+    <div class="body">
     {{> Template.dynamic template=main}}
+    </div>
+    <footer>
+        {{> frontFooter}}
+    </footer>
 </template>
